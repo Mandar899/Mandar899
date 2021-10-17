@@ -30,7 +30,7 @@ I'm an engineering graduate and also a self-taught full-stack web developer look
 ![vscode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-## Technologies I want to explore
+## ✨Technologies I want to explore
 ![Three.js](https://img.shields.io/badge/Threejs-black?style=flat-square&logo=three.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black)
