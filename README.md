@@ -3,14 +3,14 @@
 I'm an engineering graduate and also a self-taught full-stack web developer looking for a job opportunity that will help me to gain experience in this field.
 
 
-🔭 I’m currently working on [Airbnb Clone](https://airbnb-clone-v1.vercel.app)
+🔭 I’m currently working on [Instagram Clone](https://instagram-clone-v1.vercel.app)
 
 🌱 I’m currently learning **MySQL**
 
 ## 🔗 Links
 [![Linkedin Badge](https://img.shields.io/badge/-mandar--manvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mandar-manvi/)](https://www.linkedin.com/in/mandar-manvi/)
 [![Instagram Badge](https://img.shields.io/badge/-mandar__manvi-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/mandar_manvi/)](https://instagram.com/mandar_manvi)
-[![Twitter](https://img.shields.io/badge/-@MandarManvi-000000?style=flat-square&labelColor=000000&logo=Twitter&link=https://twitter.com/ManviMandar/)](https://twitter.com/ManviMandar)
+[![Twitter](https://img.shields.io/badge/-@MandarManvi-000000?style=flat-square&labelColor=000000&logo=Twitter&link=https://twitter.com/ManviMandar/)](https://twitter.com/manvi_mandar)
 [![Gmail Badge](https://img.shields.io/badge/-mandarmanviwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mandarmanviwork@gmail.com)](mailto:mandarmanviwork@gmail.com)
 
   
@@ -30,7 +30,7 @@ I'm an engineering graduate and also a self-taught full-stack web developer look
 ![vscode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-## ✨Technologies I want to explore
+## ✨ Technologies I want to explore
 ![Three.js](https://img.shields.io/badge/Threejs-black?style=flat-square&logo=three.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -38,7 +38,7 @@ I'm an engineering graduate and also a self-taught full-stack web developer look
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mandar899&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Mandar899)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Mandar899.Mandar899)
 
 ### Spotify Playing 🎧
 
