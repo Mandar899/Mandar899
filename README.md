@@ -3,14 +3,14 @@
 I'm an engineering graduate and also a self-taught full-stack web developer looking for a job opportunity that will help me to gain experience in this field.
 
 
-🔭 I’m currently working on [Instagram Clone](https://instagram-clone-v1.vercel.app)
+🔭 I’m currently working on [Cryptodesk API](https://rapidapi.com/mandarmanvi998/api/cryptodeck)
 
-🌱 I’m currently learning **MySQL**
+🌱 I’m currently learning **GraphQL**
 
 ## 🔗 Links
 [![Linkedin Badge](https://img.shields.io/badge/-mandar--manvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mandar-manvi/)](https://www.linkedin.com/in/mandar-manvi/)
 [![Instagram Badge](https://img.shields.io/badge/-mandar__manvi-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/mandar_manvi/)](https://instagram.com/mandar_manvi)
-[![Twitter](https://img.shields.io/badge/-@MandarManvi-000000?style=flat-square&labelColor=000000&logo=Twitter&link=https://twitter.com/ManviMandar/)](https://twitter.com/manvi_mandar)
+[![Twitter](https://img.shields.io/badge/-@manvi_mandar-000000?style=flat-square&labelColor=000000&logo=Twitter&link=https://twitter.com/ManviMandar/)](https://twitter.com/manvi_mandar)
 [![Gmail Badge](https://img.shields.io/badge/-mandarmanviwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mandarmanviwork@gmail.com)](mailto:mandarmanviwork@gmail.com)
 
   
@@ -28,6 +28,7 @@ I'm an engineering graduate and also a self-taught full-stack web developer look
 ![git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![github](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![vscode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 
 ## ✨ Technologies I want to explore
