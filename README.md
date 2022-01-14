@@ -40,8 +40,3 @@ I'm an engineering graduate and also a self-taught full-stack web developer look
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mandar899&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Mandar899.Mandar899)
-
-### Spotify Playing 🎧
-
-[![Spotify](https://mandar899.vercel.app/api/spotify)](https://open.spotify.com/user/Mandar)
-  
